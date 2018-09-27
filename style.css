@@ -1,0 +1,35 @@
+.jumbotron{
+    background-color: rgba(0, 166, 255, 0.5);
+    color: rgb(89, 2, 89);
+    border-style: double;
+    font-size: 150%;
+    font-style: italic;
+    font-family: "Times New Roman", Times, serif;
+}
+.col-sm-3{
+    background-color: rgba(0, 166, 255, 0.5);
+    margin: 40px;
+    padding: 20px;
+    color:  rgb(89, 2, 89);
+    border-style: dotted dashed double;
+    font-size: 120%;
+    text-align: center;
+    font-style: oblique;
+    font-family: "Times New Roman", Times, serif;
+}
+img{
+    border-radius: 50%; 
+  
+}
+body{
+    background-image: url(Two-of-Cups.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    font-weight: bold;
+}
+ul{
+    text-align: left; 
+}

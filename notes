@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charsets="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Sarah Wood a.k.a. Saraswati Kali ૐ</title>
+</head>
+
+<body>
+    <div id="body"> 
+
+    <div id=header>
+        <h1>ૐ Saraswati Kali a.k.a Sarah Wood ૐ </h1>
+    
+    </div>
+
+    <div id="about-me">
+    
+            <img src="Sarah-Wood.jpg">
+    
+        <div id="my-bio">
+            <p>     My name is Sarah Wood a.k.a Saraswati Kali. I am <em>almost</em> 30 years old (yikes), and I was
+                born in Dallas, TX, even though I grew up in Dalton, GA. I was raised as an only child, and I just
+                recently came in contact with my older half sister.</p>
+        </div>
+
+    </div>
+
+    <div id=favorites>
+
+        <div class="Preferences" id="Shows">
+            <center><h2><u>Favorite Shows</u></h2></center>
+            <ul class="list">
+                <li>Archer</li>
+                <li>South Park</li>
+                <li>American Horror Story</li>
+                <li>Rick and Morty</li>
+            </ul>
+        </div>
+
+        <div class="Preferences" id="Movies">
+            <center><h2><u>Favorite Movies</u></h2></center>
+            <ul class="list">
+                <li>Amedeus</li>
+                <li>To Wong Foo, Thanks for Everything, Julie Newmar</li>
+                <li>Ramayana</li>
+                <li>The Red Violin</li>
+            </ul>
+        </div>
+
+        <div class="Preferences" id="Music">
+            <center><h2><u>Favorite Music</u></h2></center>
+            <ul class="list">
+                <li>Folk / Spiritual / Cultural </li>
+                <li>Rock (all kinds)</li>
+                <li>Psy Trance</li>
+                <li>Classical</li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div id=footer>
+            <center><iframe width="400" height="215" src="https://www.youtube.com/embed/WJa4r-OydDM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+    </div>
+    
+<center><a href="https://www.linkedin.com/in/sarah-wood-0b4219169/"><img src="linkedin-logo.png" class="linkedin"></a></center>
+</div>
+
+</body>
+
+</html>
